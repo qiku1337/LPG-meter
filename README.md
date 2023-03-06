@@ -1,4 +1,5 @@
 # LPG-meter designed in Fusion360, based on atmega328 (arduino nano) & stepper driver A4988
+https://youtu.be/uQozzcD7b_4
 
 
 
